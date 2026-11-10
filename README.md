@@ -1,4 +1,4 @@
-> **Experimental X1 fork:** genuine JS001 **discovery-only** identity and reachability monitoring. Cameras and attached Bluetooth accessories are **not supported yet**: the protected device API requires owner authorization. No X1 controls or firmware writes. Read [the exact scope and gates](docs/X1.md) before installing. Upstream documentation below describes other models and must not be read as X1 feature claims.
+> **Experimental X1 fork:** genuine JS001 read-only status, far/near/side JPEG snapshots, onboard slot diagnostics and connected-only Bluetooth inventory using a private owner-issued grant. The live connected list was empty; per-accessory telemetry and live video are not verified. No X1 controls or firmware writes. Read [the exact scope and owner gates](docs/X1.md) before installing. Upstream documentation below describes other models, not X1 feature claims.
 
 # xTool Laser
 

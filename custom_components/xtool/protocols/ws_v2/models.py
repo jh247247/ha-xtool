@@ -584,7 +584,7 @@ XTOOL_O1_OMNI_WSV2 = XtoolDeviceModel(
 
 XTOOL_X1_DISCOVERY = XtoolDeviceModel(
     model_id="JS001",
-    name="xTool X1 (experimental discovery only)",
+    name="xTool X1 (experimental read-only)",
     protocol_class=X1DiscoveryProtocol,
     coordinator_class=X1DiscoveryCoordinator,
     is_read_only=True,
