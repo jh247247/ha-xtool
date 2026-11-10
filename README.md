@@ -1,3 +1,5 @@
+> **Experimental X1 fork:** genuine JS001 **discovery-only** identity and reachability monitoring. Cameras and attached Bluetooth accessories are **not supported yet**: the protected device API requires owner authorization. No X1 controls or firmware writes. Read [the exact scope and gates](docs/X1.md) before installing. Upstream documentation below describes other models and must not be read as X1 feature claims.
+
 # xTool Laser
 
 Home Assistant integration for xTool laser cutters, engravers, fiber-laser welders and inkjet / UV printers (S1, D1 family, F1 family, F2 family, M1 family, M2, P-family, MetalFab, Apparel Printer, O1 Omni, Retail Marker, …).

@@ -1,0 +1,24 @@
+{
+  "provenance": "Sanitized projection of a real X1 deviceFind response; all per-device identifiers replaced. No authenticated status/camera/accessory responses were obtained.",
+  "discovery_response": {
+    "data": {
+      "deviceCode": "JS001",
+      "deviceId": "EXAMPLE-DEVICE-ID",
+      "deviceIp": "192.0.2.12",
+      "deviceName": "xTool_X1_example",
+      "deviceSn": "EXAMPLE-X1-NOT-REAL",
+      "firmwareVersion": "example-firmware",
+      "netType": 2,
+      "platformVersion": "2.0",
+      "requestId": 12345,
+      "version": "1.0",
+      "wifiSignal": -27
+    },
+    "method": "response",
+    "type": "deviceFind"
+  },
+  "parity_rejection_projection": {
+    "code": 406,
+    "message": "connection identifier or version mismatch"
+  }
+}
